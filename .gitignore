@@ -11,10 +11,6 @@ __pycache__/
 
 logs/
 
-# YOLO
-*.weights
-*.cfg
-YOLO/
 
 # Distribution / packaging
 .Python
